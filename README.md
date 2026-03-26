@@ -21,4 +21,4 @@ A high-performance Flutter application built with **GetX** for state management,
 - `lib/service`: Authentication and session management.
 
 ---
-Developed by **Ayush Hirpara** 🚀
+Developed by **Ayush Hirpara** 
